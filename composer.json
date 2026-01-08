@@ -2,6 +2,7 @@
     "name": "myxinhdep/emyeu",
     "description": "tong",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "My\\Emyeu\\": "src/"

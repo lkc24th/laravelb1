@@ -1,0 +1,16 @@
+{
+    "name": "my/emyeu",
+    "description": "tong",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "My\\Emyeu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "my"
+        }
+    ],
+    "require": {}
+}
